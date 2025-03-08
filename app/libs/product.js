@@ -1,9 +1,9 @@
 export const product = {
     id: ~~(Math.random() * 100) + 1,
     image: "/img.png",
-    name: "LEVI'S® WOMEN'S XL TRUCKER JACKET",
+    name: "T-Shirt Waffle Wanita | Lengan Panjang Ukuran: M",
     price: 350000,
-    description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsa accusantium, aspernatur provident beatae corporis veniam atque facilis, consequuntur assumenda, vitae dignissimos iste exercitationem dolor eveniet alias eos ullam nesciunt voluptatum",
+    description: "Bahan waffle yang ringan dan terasa halus. Hem membulat yang terlihat bagus saat dikenakan dimasukkan atau dikeluarkan. Terdapat rib di pergelangan tangan, sehingga mudah dipadupadankan dengan gaya lengan yang digulung.",
     colors: [
         { value: "putih", label: "Putih" },
         { value: "biru", label: "Biru" },
