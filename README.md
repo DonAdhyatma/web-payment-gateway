@@ -13,3 +13,5 @@ Here's steps for start the project:
 4. Don't forget to configure your `.env` file with client and server credentials from your Sandbox dashboard
 5. Run this project with the command `npm run dev` on your terminal
 6. Enjoy this demo project!
+
+**Big thanks to Dea Afrizal, don't forget to subscribe to his YouTube channel for other programming tutorials.**
